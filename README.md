@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mohamed Niyaz
+## 👋 Hey, I'm Mohamed Niyaz
 
 🎓 I have completed a **Bachelor’s degree in Computer Applications** from **Amity University Online** (Sep 2021 – Jul 2024) and am set to begin a **Postgraduate Diploma in Artificial Intelligence** at **Georgian College, Ontario, Canada** (Jan 2025 – Aug 2025).
 

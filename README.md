@@ -4,8 +4,6 @@
 
 💡 My goal is to become a skilled **AI Engineer** or **Software Developer**, and I’m passionate about solving real-world problems using machine learning, deep learning, and data science.
 
-🌍 Originally from India 🇮🇳, I spent over 20 years in Dubai 🇦🇪 before moving to Canada 🇨🇦 to further my education and career.
-
 ---
 
 ### 🛠️ Technical Skills

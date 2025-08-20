@@ -22,7 +22,7 @@
 - **🛠️ Restore AI**  
   Collaborated on a client-focused AI solution that leverages **synthetic data** and **graphical analytics** to optimize restoration decision-making for businesses.  
   The project demonstrates measurable **cost-savings** and **automation** potential for industry partners, providing actionable insights for more efficient restoration processes.  
-  [View Project]((https://github.com/n1yxz/RestoreAI))
+  [View Project](https://github.com/n1yxz/RestoreAI)
 
 - **🧠 Disaster Tweet Classification**  
   Applied BERT and NLP techniques to classify tweets related to disasters.  

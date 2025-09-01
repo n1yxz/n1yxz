@@ -35,8 +35,9 @@
 - **🎮 Trivia Buddy (Alexa Skill)**  
   Developed a voice-based quiz game using Amazon Alexa Skills Kit and Python Flask.  
 
-- **🧾 Financial Data Visualization**  
-  Created interactive dashboards using Power BI to analyze financial trends.  
+- **🤖 JetBot Robotics (NVIDIA Jetson Nano)**
+  Built a self-driving robot that combines road following and collision avoidance using deep learning and computer vision.
+  Trained models with PyTorch and deployed them on Jetson Nano, validating real-world navigation performance. [View Project](https://github.com/n1yxz/NVIDIA_Jetbot_Road_Following_Collision_Avoidance)
 
 ---
 
